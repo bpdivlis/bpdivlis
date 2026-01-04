@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <img height="200" src="https://i.redd.it/l9g5inxt4bib1.jpg"  />
+</div>
 
-<!--
-**bpdivlis/bpdivlis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h6 align="center">˚⟡˖ ࣪ jackie . 21 . nonbinary ⋆˚꩜｡</h6>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h6 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h6>
+
+###
+
+<h6 align="center">I'm friendly, don't be afraid to come up and start a convo w me!<br>Minors dni, i block freely<br>I like problematic medias, Don't like it Don't talk to me, the hide button is accessible for a reason.</h6>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/chainedquill">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=chainedquill&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://static.wikia.nocookie.net/okegom/images/8/82/Ivlis_Sprite.png"  />
+</div>
+
+###
